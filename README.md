@@ -8,7 +8,7 @@ I used a set of data containing information on cars sold at Cars.com
 I wanted to initally answer different questions but i started with the mean prices of cars form each year. Then i wanted to filter out outliers to i looked for statistical methods for filtering extrenuous data. In this program i use the standard deviation of the prices in each year and filter out years whos standard deviations exceed that of the rest of the years in about the top 5%. The filtered chart showed one year had a significantly higher value than the others. This year is the year of the 1959 Porche 356. The unfiltered data showed that the Acura NSX T from 1996-2001 are very high value as well as some other hot models of cars. Then I was interested in the effects of the energy crisises back in the day compared to the standard means as well as the modern fuel crisis. For that i did a two sample test with the means of all the years compared to the means of crisises that occured in 1970 and 1980 then did the same with the crisis in the 2019-present as well as the different crisis periods compared to eachother.
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
-[Software Demo Video](https://youtu.be/mGshejs1pGs)
+[Software Demo Video](https://youtu.be/t4VisNTMnCc)
 
 # Data Analysis Results
 
